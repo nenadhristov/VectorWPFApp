@@ -1,0 +1,17 @@
+C:\Users\Neno\source\repos\VectorClass.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Neno\source\repos\VectorClass.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Neno\source\repos\VectorClass.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Neno\source\repos\VectorClass.UnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Neno\source\repos\VectorClass.UnitTests\bin\Debug\VectorClass.UnitTests.dll
+C:\Users\Neno\source\repos\VectorClass.UnitTests\bin\Debug\VectorClass.UnitTests.pdb
+C:\Users\Neno\source\repos\VectorClass.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Neno\source\repos\VectorClass.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Neno\source\repos\VectorClass.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Neno\source\repos\VectorClass.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Neno\source\repos\VectorClass.UnitTests\obj\Debug\VectorClass.UnitTests.csprojAssemblyReference.cache
+C:\Users\Neno\source\repos\VectorClass.UnitTests\obj\Debug\VectorClass.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Neno\source\repos\VectorClass.UnitTests\obj\Debug\VectorClass.UnitTests.csproj.CopyComplete
+C:\Users\Neno\source\repos\VectorClass.UnitTests\obj\Debug\VectorClass.UnitTests.dll
+C:\Users\Neno\source\repos\VectorClass.UnitTests\obj\Debug\VectorClass.UnitTests.pdb
+C:\Users\Neno\source\repos\VectorClass.UnitTests\bin\Debug\VectorClass.dll
+C:\Users\Neno\source\repos\VectorClass.UnitTests\bin\Debug\VectorClass.pdb
